@@ -1,8 +1,8 @@
 #!/bin/bash
-# mccshark!
+# mccshark@me.com
 
 clear
-OutputFolder="~/Desktop/"
+OutputFolder="$HOME/Desktop/"
 
 echo "ExifSharkAdd.sh script"
 echo ""
@@ -26,6 +26,7 @@ read -p "Do you want to see a list of folders? (Yy)? " -n 1 -r
 if [[ $REPLY =~ [Yy]$ ]]
 then
     echo ""
+    cd $TempFolder
     ls -l -A -t
     echo ""
 else
