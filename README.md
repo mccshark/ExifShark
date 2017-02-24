@@ -1,5 +1,6 @@
 # ExifShark
-Collection of bash scripts that let you read, export (to csv) and write metadata
+
+> Collection of bash scripts that let you read, export (to csv) and write metadata
 Bash Written by Kevin McCauley, mccshark@me.com
 Tested on Mac OS X El Capitan 10.11.6
 
@@ -21,7 +22,7 @@ Adding to website in late Feb 2017.
 See http://kevinmccauley.com
 
 ## Metadata Resources
-International Press Telecommunications Council (IPTC) - http://www.sno.phy.queensu.ca/~phil/exiftool/TagNames/IPTC.html
+International Press Telecommunications Council ([![Release]IPTC) http://www.sno.phy.queensu.ca/~phil/exiftool/TagNames/IPTC.html
 
 ### YouTube
 How to Batch Change Photo Date EXIF Data on your Mac with Photo Date Changer https://youtu.be/EdCvbPBvkFI
