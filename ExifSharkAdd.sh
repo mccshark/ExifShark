@@ -2,7 +2,6 @@
 # mccshark!
 
 clear
-# OutputFolder="/users/kevinmccauley/desktop/"
 OutputFolder="~/Desktop/"
 
 echo "ExifSharkAdd.sh script"
