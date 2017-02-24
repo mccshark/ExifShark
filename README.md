@@ -8,9 +8,9 @@ Tested on Mac OS X El Capitan 10.11.6
 Script that lets you add various metadata tags for photo and music files
 
 ## Requirements
-ExifTool by Phil Harvey
+
+- [ExifTool by Phil Harvey](http://www.sno.phy.queensu.ca/~phil/exiftool)
 Read, Write and Edit Meta Information!
-http://www.sno.phy.queensu.ca/~phil/exiftool/
 Latest version: Version 10.43 (4.0 MB) - Feb. 16, 2017
 Runs on Windows, Mac and Linux
 
