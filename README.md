@@ -1,6 +1,7 @@
 # ExifShark
-Bash Written by Kevin McCauley
-mccshark@me.com
+Collection of bash scripts that let you read, export (to csv) and write metadata
+Bash Written by Kevin McCauley, mccshark@me.com
+Tested on Mac OS X El Capitan 10.11.6
 
 ##ExifSharkAdd
 Script that lets you add various metadata tags for photo and music files
